@@ -1,0 +1,12 @@
+{
+  "name": "net.voxint.buildsizeviewer",
+  "displayName": "Build Size Viewer",
+  "version": "1.2.1",
+  "unity": "2019.4",
+  "description": "A tool for viewing the size of VRC worlds and avatars assets after building",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "voxel",
+    "url": "https://vpm.voxint.net"
+  }
+}

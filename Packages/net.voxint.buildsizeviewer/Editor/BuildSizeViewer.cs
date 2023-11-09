@@ -31,7 +31,7 @@ public class BuildSizeViewer : EditorWindow {
     bool buildLogFound = false;
     Vector2 scrollPos;
 
-    [MenuItem("Window/Muni/VRC Build Size Viewer")]
+    [MenuItem("Tools/VRC/Build Size Viewer")]
 
     public static void ShowWindow() {
         EditorWindow.GetWindow(typeof(BuildSizeViewer));
