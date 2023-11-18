@@ -1,5 +1,5 @@
 # Build Size Viewer
- A script for viewing the build size for VRC worlds and avatars after building.
+ A script for viewing the size of VRC worlds and avatars after building.
 
 ## How To Use
 - Add VPM package ([https://vpm.voxint.net/](https://vpm.voxint.net/)) through VCC   
